@@ -8,8 +8,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Bible',
   tagline: '',
-  url: 'https://davidson-r.github.io/learningdocusaurus',
-  baseUrl: '/',
+  url: 'https://davidson-r.github.io',
+  baseUrl: '/learningdocusaurus',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
