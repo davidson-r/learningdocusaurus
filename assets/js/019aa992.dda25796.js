@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[70393],{85622:function(e){e.exports=JSON.parse('{"name":"Jude","permalink":"/learningdocusaurus/docs/tags/jude","docs":[{"id":"Jude/Jude-1","title":"Jude 1","description":"---","permalink":"/learningdocusaurus/docs/Jude/Jude-1"}],"allTagsPath":"/learningdocusaurus/docs/tags"}')}}]);

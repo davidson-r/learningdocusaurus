@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[66606],{6042:function(a){a.exports=JSON.parse('{"name":"Obadiah","permalink":"/docs/tags/obadiah","docs":[{"id":"Obadiah/Obadiah-1","title":"Obadiah 1","description":"---","permalink":"/docs/Obadiah/Obadiah-1"}],"allTagsPath":"/docs/tags"}')}}]);

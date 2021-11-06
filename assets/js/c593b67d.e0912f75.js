@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[20098],{99181:function(s){s.exports=JSON.parse('{"name":"2 John","permalink":"/learningdocusaurus/docs/tags/2-john","docs":[{"id":"2 John/2 John-1","title":"2 John 1","description":"---","permalink":"/learningdocusaurus/docs/2 John/2 John-1"}],"allTagsPath":"/learningdocusaurus/docs/tags"}')}}]);
