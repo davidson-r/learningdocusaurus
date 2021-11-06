@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[34237],{62756:function(s){s.exports=JSON.parse('{"name":"2 John","permalink":"/docs/tags/2-john","docs":[{"id":"2 John/2 John-1","title":"2 John 1","description":"---","permalink":"/docs/2 John/2 John-1"}],"allTagsPath":"/docs/tags"}')}}]);

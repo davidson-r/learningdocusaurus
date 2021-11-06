@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[11071],{83639:function(e){e.exports=JSON.parse('{"name":"Philemon","permalink":"/docs/tags/philemon","docs":[{"id":"Philemon/Philemon-1","title":"Philemon 1","description":"---","permalink":"/docs/Philemon/Philemon-1"}],"allTagsPath":"/docs/tags"}')}}]);
