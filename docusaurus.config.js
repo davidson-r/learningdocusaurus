@@ -9,7 +9,7 @@ const config = {
   title: 'Bible',
   tagline: '',
   url: 'https://davidson-r.github.io',
-  baseUrl: '/learningdocusaurus',
+  baseUrl: '/learningdocusaurus/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
