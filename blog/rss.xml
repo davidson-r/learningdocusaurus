@@ -4,14 +4,14 @@
         <title>Bible Blog</title>
         <link>https://davidson-r.github.io/learningdocusaurus/blog</link>
         <description>Bible Blog</description>
-        <lastBuildDate>Sat, 06 Nov 2021 19:12:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Jul 2022 02:18:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[Reading a CSV using python]]></title>
             <link>https://davidson-r.github.io/learningdocusaurus/blog/reading-a-csv-using-python</link>
             <guid>reading-a-csv-using-python</guid>
-            <pubDate>Sat, 06 Nov 2021 19:12:00 GMT</pubDate>
+            <pubDate>Sun, 17 Jul 2022 02:18:41 GMT</pubDate>
             <description><![CDATA[---]]></description>
             <content:encoded><![CDATA[<hr/><p>Given a csv file <code>file.csv</code> with the below format:</p><table><thead><tr><th>First Column</th><th>Second Column</th></tr></thead><tbody><tr><td>First Line First column</td><td>First row Second column</td></tr><tr><td>Second Line First column</td><td>Second Line Second column</td></tr></tbody></table><br/><p>It can be read using</p><h3>A list of dictionaries</h3><pre><code>import csv
 
@@ -31,7 +31,7 @@ print(data)
             <title><![CDATA[Reading and merging multiple CSVs]]></title>
             <link>https://davidson-r.github.io/learningdocusaurus/blog/reading-and-merging-multiple-csvs</link>
             <guid>reading-and-merging-multiple-csvs</guid>
-            <pubDate>Sat, 06 Nov 2021 19:12:00 GMT</pubDate>
+            <pubDate>Sun, 17 Jul 2022 02:18:41 GMT</pubDate>
             <description><![CDATA[---]]></description>
             <content:encoded><![CDATA[<hr/><p>Given two files named <code>file1.csv</code> and <code>file2.csv</code> with the below format:</p><table><thead><tr><th>First Column</th><th>Second Column</th></tr></thead><tbody><tr><td>First Line First column</td><td>First row Second column</td></tr><tr><td>Second Line First column</td><td>Second Line Second column</td></tr></tbody></table><br/><p>It can be read using</p><h3>A list of dictionaries</h3><pre><code>import csv
 
